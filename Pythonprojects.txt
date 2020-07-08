@@ -1,2 +1,2 @@
 Welcome to Python Projects 
-First project
+print("Welcome")
